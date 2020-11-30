@@ -1,4 +1,4 @@
-# Color Clock
+# Asset repository
 
 Assets for different flutter projects
 
